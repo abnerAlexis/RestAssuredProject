@@ -1,0 +1,8 @@
+ .idea/
+ target/
+ .idea/vcs.xml
+globalProps.properties
+PropertiesInfo.txt
+inheritance/
+# Project exclude paths
+/target/
